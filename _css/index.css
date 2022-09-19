@@ -59,7 +59,7 @@ body, html {
 }
 
 .tree-container .links-container {
-    margin-top: 17px;
+    margin-top: 30px;
     display: flex;
     flex-direction: column;
 }
