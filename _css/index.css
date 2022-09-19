@@ -60,7 +60,7 @@ body, html {
 }
 
 .tree-container .links-container {
-    margin-top: 45px;
+    margin-top: 36px;
     display: flex;
     flex-direction: column;
 }
